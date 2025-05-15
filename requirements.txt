@@ -1,0 +1,7 @@
+pandas==2.2.2
+xgboost==2.1.4
+scikit-learn==1.6.1
+numpy==1.24.4
+pgmpy==0.1.21
+torch>=1.8.0
+networkx>=2.5
